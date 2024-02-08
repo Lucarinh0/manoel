@@ -523,7 +523,7 @@ a:focus {
 .about_section .detail-box a {
   display: inline-block;
   padding: 10px 45px;
-  background-color: #0a97b0;
+  background-color: #00BFFF;
   color: #ffffff;
   border-radius: 0px;
   -webkit-transition: all .3s;
@@ -533,7 +533,7 @@ a:focus {
 }
 
 .about_section .detail-box a:hover {
-  background-color: #065968;
+  background-color: #00008B;
 }
 
 .track_section {
